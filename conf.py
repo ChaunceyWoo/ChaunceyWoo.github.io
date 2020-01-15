@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Kepler",
+    "name": "Galileo",
     "type": "local",
-    "path": "../Kepler"
+    "path": "../Galileo"
 }
 enable_jsdelivr = {
     "enabled": False,
@@ -24,9 +24,9 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "gaigai"
 email = "349778537@qq.com"
-author_homepage = "https://www.imalan.cn"
+author_homepage = "https://gai.xta.me"
 description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['咖喱盖盖', '咖喱gaigai', 'gaigai', 'blog']
 language = 'zh-CN'
 external_links = [
     {
