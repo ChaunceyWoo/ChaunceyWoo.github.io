@@ -76,11 +76,15 @@ social_links = [
     }
 ]
 valine = {
-     “ enable ”：True，
-     “ el ”：' #vcomments '，
-     “ appId ”：“ O42ILHaaahnRYayBHovKxJWD-gzGzoHsz ”，
-     “ appKey ”：“ jk8emXnk7dVk2F2eKaoNPvmd ”，
+    "enable": True,
+    "el": '#vcomments',
+    "appId": "O42ILHaaahnRYayBHovKxJWD-gzGzoHsz",
+    "appKey": "lFaCWkd4xCs0Ng5UWs1eHNwU",
+    "visitor": True,
+    "recordIP": True
 }
+
+
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
