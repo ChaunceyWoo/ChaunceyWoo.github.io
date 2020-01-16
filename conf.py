@@ -78,8 +78,8 @@ social_links = [
 valine = {
      “ enable ”：True，
      “ el ”：' #vcomments '，
-     “ appId ”：“O42ILHaaahnRYayBHovKxJWD-gzGzoHsz”，
-     “ appKey ”：“jk8emXnk7dVk2F2eKaoNPvmd”，
+     “ appId ”：“ O42ILHaaahnRYayBHovKxJWD-gzGzoHsz ”，
+     “ appKey ”：“ jk8emXnk7dVk2F2eKaoNPvmd ”，
 }
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
