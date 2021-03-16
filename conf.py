@@ -19,14 +19,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "咖喱盖盖"
+site_name = "Duseus's Wiki."
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "gaigai"
-email = "349778537@qq.com"
-author_homepage = "https://gai.xta.me"
-description = "只坚持一种正义。我的正义。"
-key_words = ['咖喱盖盖', '咖喱gaigai', 'gaigai', 'blog']
+site_build_date = "2021-03-16T16:51+08:00"
+author = "Duseus"
+email = "Duseus@scxho.cn"
+author_homepage = "https://wiki.scxho.cn"
+description = "快让我在雪地上撒点儿野."
+key_words = ['Duseus', 'Duseus Wiki', 'wiki', 'scxho']
 language = 'zh-CN'
 external_links = [
     {
@@ -35,9 +35,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "山川行貉",
+        "url": "https://scxho.cn",
+        "brief": "Duseus's Blog"
     }
 ]
 nav = [
@@ -66,12 +66,12 @@ social_links = [
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+            "url": "https://github.com/Duseus",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/5144940289/",
         "icon": "gi gi-weibo"
     }
 ]
